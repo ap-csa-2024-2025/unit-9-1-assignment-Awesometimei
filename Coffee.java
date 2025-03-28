@@ -31,6 +31,21 @@ public class Coffee
     return size;
   }
 
+  public boolean getIsSkinny()
+  {
+    return isSkinny;
+  }
+
+  public int getShots()
+  {
+    return shots;
+  }
+
+  public String getType()
+  {
+    return type;
+  }
+
   public int getPrice()
   {
     int price;
